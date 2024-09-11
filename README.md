@@ -9,13 +9,8 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25+&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Arya+Pratap+SIngh;Software+Developer;Web+Development;Algorithms;" alt="Typing SVG" /></a>
     </div>
     <div align="center">
-<!--     <a href="https://api.whatsapp.com/send?phone=917275011914"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/a63dc3b2-47ca-497c-8302-d32abcad18ed" width="35" height="35" style="margin-right: 10px;" /></a> -->
     <a href="https://www.linkedin.com/in/arya-pratap-singh-580b23244/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="mailto:aryapratapsingh5554@gmail.com.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://t.me/ArkS0001"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://medium.com/@arks0001"><img src="https://github.com/user-attachments/assets/050cd019-9c69-4730-8441-99658513e892" width="35" height="35" style="margin-right: 10px;" /></a>
-</div>
-<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="left">
         <br />
         <p>
@@ -42,17 +37,7 @@ My proficiency in machine learning allows me to unravel complex data patterns an
         <br />
     </div>
 <a href="https://medium.com/@arks0001"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-### 📝 &nbsp;Publications📚
-<ul>
-  <li><a href="https://medium.com/@arks0001/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">QWhale & SARSAWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling</a></li>
-  <li><a href="https://medium.com/@arks0001/understanding-quantum-processing-units-qpus-the-future-of-computing-cb459a4d5d75">Understanding Quantum Processing Units (QPUs): The Future of Computing</a></li>
-   <li><a href="https://medium.com/@arks0001/energy-temperature-performance-trade-off-in-processing-units-cpu-gpu-dpu-tpu-npu-vpu-qpu-cd8eecc33a7f">Balancing Energy Efficiency and Performance in Modern Processing Units: CPU, GPU, DPU, TPU, NPU, VPU, and QPU</a></li>
-    <li><a href="https://arks0001.medium.com/comparative-analysis-of-tpus-and-cpus-specialized-efficiency-vs-versatile-performance-79389986a717">Comparative Analysis of TPUs and CPUs: Specialized Efficiency vs. Versatile Performance</a></li>
-    <li><a href="https://medium.com/@arks0001/liquid-neural-networks-real-time-adaptability-and-temporal-processing-excellence-781e2448a1fb">Liquid Neural Networks: Real-Time Adaptability and Temporal Processing Excellence</a></li>
-    <li><a href="https://arks0001.medium.com/nuclear-fusion-dynamics-reinforcement-learning-and-llms-for-plasma-stability-optimization-98e0a3173128">Nuclear Fusion Dynamics: Reinforcement Learning and LLMs for Plasma Stability Optimization</a></li>
-    <li><a href="https://medium.com/@arks0001/scaling-new-heights-llama-3-1-405-b-and-h100-tensor-gpus-da028f657b3c">Scaling New Heights: LLaMA 3.1 405 B and H100 Tensor GPUs</a></li>
-    <li><a href="https://arks0001.medium.com/exploring-mesop-a-comprehensive-python-web-framework-beyond-streamlit-for-ai-and-ml-applications-78dd91c3d3ae">Exploring Mesop: A Comprehensive Python Web Framework Beyond Streamlit for AI and ML Applications</a></li>
-</ul>
+
 
 ```py
 About Me = [
@@ -79,48 +64,27 @@ About Me = [
 
 <div align="center">
     <h3><b>Programming Languages</b></h3>
-     <code><a href="#" target="_blank"><img src="https://static.javatpoint.com/core/images/java-logo1.png" title="Java" alt="java"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="HTML5" alt="C" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="Cpp" alt="css3"  height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/f07f2313-4046-4f64-a519-4603ffa84575" title="Java" alt="c#"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" title="Kotlin" alt="Kotlin"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" title="Dart" alt="Dart"  height="40"/></a></code>&nbsp;&nbsp;
+     <code><a href="#" target="_blank"><img src="https://static.javatpoint.com/core/images/java-logo1.png" title="Java" alt="Java" height="40"/></a></code>&nbsp;&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" height="40"/></a></code>&nbsp;&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" height="40"/></a></code>
 </div>
+
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
     <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" title="Numpy" alt="numpy" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" title="Pandas" alt="pandas" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" title="Scikit Learn" alt="sklearn" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" title="Open CV" alt="open cv" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" title="Numpy" alt="numpy" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" title="Tensorflow" alt="tensorflow" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoAubNiI_aSMGINDD6rQZMepg417jWh7UMQ&s" title="Scipy" alt="scipy" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" title="Matplotlib" alt="matplotlib" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" title="Seaborn" alt="seaborn" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome-thumbnail.png" title="Flask" alt="Flask" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/1a1e18f3-61e8-478f-9652-4a38537ca824" title="Django" alt="Django" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express" alt="Express" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" title="Flutter" alt="Flutter" height="40"/></a></code>&nbsp;
+<!--     <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/1a1e18f3-61e8-478f-9652-4a38537ca824" title="Django" alt="Django" height="40"/></a></code>&nbsp; -->
 </div>
+
 
 <div align="center">
     <h3><b>Databases</b></h3>
     <code><a href="#" target="_blank"><img src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" title="MySql" alt="mysql" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/220a5a93-a253-443c-b517-e788b7971a22" title="Firebase" alt="mysql" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="postgresql" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/4b917130-00f5-4f0b-842c-634a29600699" title="MongoDB" alt="MongoDB" height="40"/></a></code>&nbsp;
 </div>
 
-<div align="center">
-    <h3><b>Cloud</b></h3>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/e900a288-5580-406d-953d-7984a6f6b9da" title="Google Cloud" alt="Google Cloud"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/68ba40a8-2266-413a-b06c-c091cb738bef" title="salesforce" alt="salesforce"  height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/0f731d8d-4323-40be-8e68-eba66f1aa486" title="Cloudsim" alt="CloudSim"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/021fa33e-5224-492a-8da2-f71b43341d2e" title="NGINX" alt="NGINX"  height="40"/></a></code>&nbsp;
-</div>
 
 <div align="center">
     <h3><b>Tools</b></h3>
@@ -128,39 +92,16 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c19d8e21-c373-47c7-926a-29a4bbe9898c" title="Git" alt="Jupyter" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" title="Eclipse" alt="eclipse" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/dc017b83-20fc-4680-8c70-bffa06e19fcb" title="Android Studio" alt="Android Studio" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/8aa4ac73-748f-4f59-a89c-a1061b8b5917" title="IntelliJ Idea" alt="IntelliJ Idea" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" title="PyCharm" alt="PyCharm" width="40" height="40"/></a></code>&nbsp;
 </div>
 
-<div align="center">
-    <h3><b>DevOps Tools</b></h3>
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/8145c5bf-212c-4782-b375-18517ce89553" title="Selenium" alt="Selenium" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/224e4ba9-7599-4ea1-b696-009818138def" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/f1709295-086c-4f14-a06b-a624f44dec62" title="Terraform" alt="Terraform" width="40" height="40"/></a></code>&nbsp;
-</div>
-<div align="center">
-    <h3><b>Networking</b></h3>
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/54c83453-be24-4078-8330-db71fac5a0fb" title="WireShark" alt="WireShark" width="90" height="40"/></a></code>&nbsp;
-</div>
-<div align="center">
-    <h3><b>Virtualization</b></h3>
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/0cc386e4-f405-43ed-a323-ce686e5b45f8" title="Linux" alt="Linux" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/f0641008-3322-488a-a9f2-3e5613039606" title="Kali" alt="Kali" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/a0da5195-b52c-4696-86df-7a6921596431" title="MetaSploit" alt="MetaSploit" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/22132f90-c38e-4627-9d0f-54695602399d" title="Parrot OS" alt="Parrot OS" width="40" height="40"/></a></code>&nbsp;
-    <br><br>
-    <br><br>
-</div>
-</div>
-<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <hr>
 
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
 <div align="center">
 
-![Aakarshit's Stats](https://github-readme-stats.vercel.app/api?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+![Arya's Stats](https://github-readme-stats.vercel.app/api?username=geekyarya&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+
 
 <hr>
 
