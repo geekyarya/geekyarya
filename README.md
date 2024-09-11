@@ -11,6 +11,9 @@
     <div align="center">
     <a href="https://www.linkedin.com/in/arya-pratap-singh-580b23244/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="mailto:aryapratapsingh5554@gmail.com.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
+    <a href="https://www.hackerrank.com/u/aryapratapsingh1"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="37" height="35" style="margin-right: 10px;" /></a>
+<a href="https://leetcode.com/u/aryapratapsingh1/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="37" height="35" style="margin-right: 10px;" /></a>
+    </div>
 <div align="left">
         <br />
         <p>
