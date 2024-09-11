@@ -15,36 +15,30 @@
         <br />
         <p>
             <strong>
-               As a seasoned machine learning expert, cloud architect, and competitive coder, I've honed my skills across multiple domains, establishing myself as a versatile force in the tech world. With a wealth of Knowledge & Experience, I bring a unique blend of expertise to every project I undertake.
+             As an emerging talent in computer science, I’ve cultivated my expertise in diverse domains, making me a dynamic force in the tech industry. Proficient in languages such as C, Java, JavaScript, and Python, and skilled with frameworks like React.js, HTML, CSS, and machine learning libraries, I’m equipped to tackle a wide range of development challenges.
 
-Proficient in languages such as Python, Java, C#, C++, Kotlin and Dart empowers me to tackle diverse programming challenges. Leveraging frameworks like Flutter,Django,Flask, NLTk, Dash and Pandas.
-My proficiency in machine learning allows me to unravel complex data patterns and derive valuable insights, while my prowess as a cloud architect ensures scalable, efficient, and secure solutions. As a competitive coder, I thrive in high-pressure environments, leveraging my problem-solving skills to deliver optimal solutions under tight deadlines.
+My hands-on experience with projects such as GreenGuardians and TaskTrek has enhanced my ability to design innovative solutions for real-world problems, from optimizing agriculture with machine learning to streamlining task management with ReactJS. As a machine learning enthusiast, I excel at analyzing complex datasets, while my skills in front-end development ensure an intuitive user experience. Additionally, my competitive coding experience sharpens my problem-solving abilities, allowing me to thrive under pressure and deliver efficient, high-quality results.
 
- With a comprehensive skill set and a relentless drive for excellence, I'm committed to pushing the boundaries of innovation, whether it's designing cutting-edge machine learning models, architecting robust cloud solutions, or excelling in competitive coding competitions.
+With a solid foundation in computer science and a passion for continuous learning, I’m driven to push boundaries—whether through sustainable tech innovations, clean code, or effective user-centric designs.
             </strong>
         </p>
-        <a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
         <ul>
-            <li>🔭🚀 <b>I’m currently working on</b>: AWS services like Athena and Sagemaker,Blockchain contracts and Few Research projects </li>
-            <li>🌱🧠 <b>I’m currently learning</b>: Cloud Simulation,CyberSecurity & Quantum Computing</li>
-            <li>💬 <b>Ask me about</b>: Machine Learning Algorithms & Neural Networking, Software Development Operations and Competitive Programming.</li>
-            <li>📫 <b>How to reach me</b>: Follow the links above to connect👆,or just raise a issue and join us in one of the discussions.</li>
-            <li>⚡🐱‍🏍 <b>I’m currently open for</b>: A new Internship & Job opportunities and Research Projects.
-            </li>
-            <!-- <li>👨‍💻 </li>
-            <li>⚡  -->
-        </ul>
-        <br />
-    </div>
+           <li>🔭🚀 <b>I’m currently working on</b>: Real-time crop monitoring projects, ReactJS-based applications, and enhancing machine learning model efficiency.</li>
+<li>🌱🧠 <b>I’m currently learning</b>: Advanced Data Structures and Algorithms, Web Development, and Database Management.</li>
+<li>💬 <b>Ask me about</b>: Machine Learning, Web Development with ReactJS, and Competitive Programming.</li>
+<li>📫 <b>How to reach me</b>: Follow the links above to connect 👆, or check out my GitHub and LinkedIn for more details.</li>
+<li>⚡🐱‍🏍 <b>I’m currently open for</b>: Internship opportunities, collaborative projects, and job offers in software development and machine learning.</li>
+
+            
 <a href="https://medium.com/@arks0001"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 ```py
 About Me = [
-    "I'm a student with a passion for Artificial Intelligence(Automation & Robotics) and a journey of steep continuous learning.",
-    "Proficient in languages like Python,Java,C#/C++,Kotlin,Dart,R; as well as web technologies including Full stack and MERN.",
-    "Dedicated to daily exploration, we uncover new algorithms and concepts, forging ahead with curiosity.",
-    "In a realm where every byte counts and speed reigns supreme, I'm the code whisperer, crafting efficiency into existence. 💻✨"
+    "I'm a Computer Science undergraduate with a passion for Problem Solving and Web Development, constantly on a journey of continuous learning and innovation."
+"Proficient in languages like C, Java, Python, HTML/CSS, JavaScript, and experienced with frameworks like ReactJS, I am dedicated to developing efficient solutions across various domains."
+"Through daily practice and exploration, I uncover new technologies and sharpen my skills in data analysis and software development."
+"In a world where technology evolves at lightning speed, I strive to write clean, optimized code and create impactful projects that push the boundaries of what's possible. 💻✨"
 ]
 ```
 <div align="center">
@@ -105,19 +99,30 @@ About Me = [
 
 <hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=transparent&count_private=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=transparent&count_private=true)](https://git.io/streak-stats)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geekyarya&theme=transparent&count_private=true)](https://git.io/streak-stats)
+
 
 <hr>
 
- ![Aakarshit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
+ <!--![Aakarshit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)-->
+
+ ![Arya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyarya&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
+
 
 <hr>
 
-[![Aakarshit's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ArkS0001&theme=github-compact)]()
+<!--[![Aakarshit's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ArkS0001&theme=github-compact)]()-->
+
+[![Arya's github activity](https://github-readme-activity-graph.vercel.app/graph?username=geekyarya&theme=github-compact)]()
+
 
 <hr>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)-->
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/aryapratapsingh1?ext=activity)
+
 
 <hr>
 
@@ -125,7 +130,7 @@ About Me = [
 
 ![snake gif](https://github.com/ArkS0001/ArkS0001/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=ArkS0001&label=Visitors&icon=0&pretty=true)]()
+[![](https://visitcount.itsvg.in/api?id=geekyarya&label=Visitors&icon=0&pretty=true)]()
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=5"/>
@@ -134,12 +139,13 @@ About Me = [
 <a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ```bash
-Copyright (c) 2022-2032 Aakarshit Srivastava and the PerfectCube Team
+Copyright (c) 2022-2032 Arya Pratap Singh.
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 ```
 <div style="display: flex; align-items: flex-start; justify-content: space-between; height: 100vh;">
