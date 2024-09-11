@@ -6,7 +6,7 @@
 <!--         <a href="https://github.com/ArkS0001"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c9238858-3828-49f2-83f5-21be90f59a67"></a> -->
     </div>
     <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25+&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Arya+Pratap+SIngh;Software+Developer;Web+Development;Algorithms;" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25+&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Arya+Pratap+Singh;Software+Developer;Web+Development;Algorithms;" alt="Typing SVG" /></a>
     </div>
     <div align="center">
     <a href="https://www.linkedin.com/in/arya-pratap-singh-580b23244/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
